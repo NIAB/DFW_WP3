@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "35k SNP data for Winter SHW NAM population"
-date:   2022-12-12 15:43:05 +0000
+date:   2022-12-12 10:43:05 +0000
 categories: jekyll update
 ---
 This page contains links to the full 35k breeders' array genotype data for the NIAB Winter Synthetic Hexaploid Wheat (SHW) Nested Association Mapping (NAM) population. 
