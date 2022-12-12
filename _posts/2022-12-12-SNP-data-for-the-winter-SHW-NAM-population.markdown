@@ -104,5 +104,5 @@ For queries on the data and usage please contact:
 
 - richard.horsnell@NIAB.com and tally.wright@NIAB.com 
 
-![](/niab-dfw-wp3/data/.png)
+![](/niab-dfw-wp3/image/shw-nam.png)
 
