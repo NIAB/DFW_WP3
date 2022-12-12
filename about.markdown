@@ -18,7 +18,7 @@ The current NIAB DFW WP3 team consists of:
 - Sigrid Heuer
 - Tally Wright
 
-![Harvest time in the large NAM trial in 2022](/_photos/harvest-time.png)
+![Harvest time in the large NAM trial in 2022](/image/harvest-time.png)
 
-
+![](/image/harvest-time.png)
 
