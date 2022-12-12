@@ -11,10 +11,10 @@ This page contains links to the full 35k breeders' array genotype data for the N
 
 # Data Download
 
-The data can be downloaded [here](/_data/niab.winter.shw.nam.zip). The zip folder includeds the following files:
+The data can be downloaded [here](/data/niab.winter.shw.nam.zip). The zip folder includes the following files:
 
 - `full.markers.winter.shw.nam.v1.csv` the dataset with NIAB codes.
-- `GRUvs.NIAB.code.conversion.csv` a conversion file to link up the Achedmic and Breeders' toolkit lines with the NIAB codes. See [here](https://designingfuturewheat.org.uk/work-package-3/) for more info on these toolkits. 
+- `GRUvs.NIAB.code.conversion.csv` a conversion file to link up the Academic and Breeders' toolkit lines with the NIAB codes. See [here](https://designingfuturewheat.org.uk/work-package-3/) for more info on these toolkits. 
 - `pedigree.for.winter.shw.nam.csv` a file with information on the pedigree of the 55 nested populations.
 
  # Information on data
