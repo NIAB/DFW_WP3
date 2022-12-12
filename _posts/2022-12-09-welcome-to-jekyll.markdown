@@ -1,9 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-12-09 15:43:05 +0000
+title:  "35k SNP data for Winter SHW NAM population"
+subtitle: "hello"
+date:   2022-12-12 15:43:05 +0000
 categories: jekyll update
 ---
+
+This page contains links to the 35k breeders' array genotype data for the NIAB Winter Synthetic Hexaploid Wheat (SHW) Nested Association Mapping (NAM) population. 
+
+
+The data inlcudes SHW derivatives, SHW parents and a number of Robigus replicates. The genotype QC in the axiom software was completed with QC thresholds of DQC = 0.8 and a QC call rate = 90%. An inbred penatly of 4 and a cr-cut off of 96 were used in the SNP calling. The data is in numeric format and was converted from the origial axiom call codes (AA, AB, BB and NoCall) format using the following conversion:
+
+`"NoCall" = NA`
+`"AA" = 0`
+`"AB" = 1`
+`"BB" = 2`
+
+The marker calls for all 35,143 SNPs are included. The last 25 columns of the data contain SNP metrics outputted from the axiom software. 
+
+The following table 
+
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
