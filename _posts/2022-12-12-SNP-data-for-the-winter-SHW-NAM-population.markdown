@@ -11,7 +11,7 @@ This page contains links to the full 35k breeders' array genotype data for the N
 
 # Data Download
 
-The data can be downloaded [here](/data/niab.winter.shw.nam.zip). The zip folder includes the following files:
+The data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/niab.winter.shw.nam.zip). The zip folder includes the following files:
 
 - `full.markers.winter.shw.nam.v1.csv` the dataset with NIAB codes.
 - `GRUvs.NIAB.code.conversion.csv` a conversion file to link up the Academic and Breeders' toolkit lines with the NIAB codes. See [here](https://designingfuturewheat.org.uk/work-package-3/) for more info on these toolkits. 
@@ -104,5 +104,5 @@ For queries on the data and usage please contact:
 
 - richard.horsnell@NIAB.com and tally.wright@NIAB.com 
 
-![](/image/shw-nam.png)
+![](/niab-dfw-wp3/data/.png)
 
