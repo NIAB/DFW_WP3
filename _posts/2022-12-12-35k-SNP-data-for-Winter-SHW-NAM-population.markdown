@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 This page contains links to the full 35k breeders' array genotype data for the NIAB Winter Synthetic Hexaploid Wheat (SHW) Nested Association Mapping (NAM) population. 
 
-The data includes SHW derivatives, SHW parents and a number of Robigus replicates. The genotype QC in the axiom software was completed with QC thresholds of DQC = 0.8 and a QC call rate = 90%. An inbred penalty of 4 and a cr-cut off of 96 were used in the SNP calling. The data is in numeric format and was converted from the original axiom call codes (AA, AB, BB and NoCall) format using the following conversion:
+ The genotype QC in the axiom software was completed with QC thresholds of DQC = 0.8 and a QC call rate = 90%. An inbred penalty of 4 and a cr-cut off of 96 were used in the SNP calling. The data is in numeric format and was converted from the original axiom call codes (AA, AB, BB and NoCall) format using the following conversion:
 
 `"NoCall" = NA`
 `"AA" = 0`
@@ -15,7 +15,16 @@ The data includes SHW derivatives, SHW parents and a number of Robigus replicate
 
 The marker calls for all 35,143 SNPs are included. The last 25 columns of the data contain SNP metrics outputted from the axiom software. 
 
-The following table shows the pedigree and information of genotypes in the data: 
+The data includes SHW derivatives, SHW parents and a number of Robigus replicates in the following numeber:
+
+ | Line Type  | Count |
+| ------------- | ------------- |
+| NAM individuals  | 3137  |
+| SHW parents  | 126  |
+| Robigus replicates  | 32  |
+
+
+The below table shows the pedigree and information of genotypes in the data: 
 
  | First Header  | Second Header |
 | ------------- | ------------- |
