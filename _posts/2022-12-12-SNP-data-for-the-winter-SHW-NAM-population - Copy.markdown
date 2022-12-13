@@ -17,7 +17,7 @@ The data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/
 - `GRUvs.NIAB.code.conversion.csv` a conversion file to link up the Academic and Breeders' toolkit lines with the NIAB codes. See [here](https://designingfuturewheat.org.uk/work-package-3/) for more info on these toolkits. 
 - `pedigree.for.winter.shw.nam.csv` a file with information on the pedigree of the 55 nested populations.
 
- # Information on data
+# Information on data
  
  The genotype QC in the axiom software was completed with QC thresholds of DQC = 0.8 and a QC call rate = 90%. An inbred penalty of 4 and a cr-cut off of 96 were used in the SNP calling. The data is in numeric format and was converted from the original axiom call codes format (AA, AB, BB and NoCall) using the following conversion:
 
