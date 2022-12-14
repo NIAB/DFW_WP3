@@ -102,7 +102,7 @@ The NAM population contains 55 nested populations, backcrossed into Robigus and 
 
 For queries on the data and usage please contact:
 
-- richard.horsnell@NIAB.com and tally.wright@NIAB.com 
+- richard.horsnell@niab.com and tally.wright@niab.com 
 
 ![](/niab-dfw-wp3/image/shw-nam.png)
 
