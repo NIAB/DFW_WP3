@@ -23,9 +23,7 @@ email: tally.wright@niab.com
 
 email: tally.wright@niab.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a data, analysis script, and general output, repository for NIAB’s contribution to the WP3 component of the BBSRC funded Designing Future Wheat Institute Strategic Programme (ISP). 
-  Read more about the DFW programme at: [www.designingfuturewheat.org.uk](https://designingfuturewheat.org.uk/about/)
-  Work Package 3 (WP3) of the programme aims to discover and deploy novel genes and alleles from a series of germplasm collections, such as NIAB 'diversity enriched' wheat. More details on WP3 can be found [here](https://designingfuturewheat.org.uk/work-package-3/).  
+  This is a data, analysis script, and general output, repository for NIAB’s contribution to the WP3 component of the BBSRC funded Designing Future Wheat Institute Strategic Programme (ISP).  
 baseurl: "/niab-dfw-wp3/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: niabscience
