@@ -28,14 +28,14 @@ The data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/
 `"AB" = 1`
 `"BB" = 2`
 
-The marker calls for all 35,143 SNPs are included. The last 25 columns of the data contain SNP metrics outputted from the axiom software. 
+The marker calls for all 35,143 SNPs are included. The last 26 columns of the data contain SNP metrics outputted from the axiom software. 
 
 The data includes NAM individuals, tetraploid parents and a number of Paragon replicates in the following number:
 
 | Line Type          | Count |
 |--------------------|-------|
 | NAM individuals    | 1784  |
-| SHW parents        | 186   |
+| Tetraploid parents        | 186   |
 | Paragon replicates | 11    |
 | Robigus replicates | 2     |
 
