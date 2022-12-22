@@ -107,7 +107,7 @@ The NAM population contains 59 nested populations, backcrossed into Paragon and 
 
 For queries on the data and usage please contact:
 
-- fiona.leigh@NIAB.com bethany.love@NIAB.com and tally.wright@NIAB.com 
+- fiona.leigh@niab.com, bethany.love@niab.com and tally.wright@niab.com 
 
 ![](/niab-dfw-wp3/image/tet-parents.png)
 
