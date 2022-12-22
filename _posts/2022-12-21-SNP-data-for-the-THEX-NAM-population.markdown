@@ -11,7 +11,7 @@ This page contains links to the full 35k breeders' array genotype data for the N
 
 # Data Download
 
-The data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/niab.winter.shw.nam.zip). The zip folder includes the following files:
+The data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/niab.spring.thex.nam.zip). The zip folder includes the following files:
 
 - `full.markers.spring.thex.nam.v1.csv` the dataset with NIAB codes.
 
@@ -109,5 +109,5 @@ For queries on the data and usage please contact:
 
 - fiona.leigh@NIAB.com bethany.love@NIAB.com and tally.wright@NIAB.com 
 
-![](/niab-dfw-wp3/image/shw-nam.png)
+![](/niab-dfw-wp3/image/tet-parents.png)
 
