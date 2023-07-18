@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SNP data for the winter SHW NAM population"
+title:  "Raw SNP data for the winter SHW NAM population"
 date:   2022-12-12 10:43:05 +0000
 categories: jekyll update
 ---
