@@ -1,5 +1,7 @@
 ---
 layout: post
+<<<<<<< HEAD:_posts/2022-12-21-Raw-SNP-data-for-the-THEX-NAM-population.markdown
+<<<<<<<< HEAD:_posts/2022-12-21-Raw-SNP-data-for-the-THEX-NAM-population.markdown
 <<<<<<<< HEAD:_posts/2022-12-21-Raw-SNP-data-for-the-THEX-NAM-population.markdown
 title:  "Raw SNP data for the spring tetraploid x hexaploid NAM population"
 date:   2022-12-21 16:59:00 +0000
@@ -7,12 +9,20 @@ date:   2022-12-21 16:59:00 +0000
 title:  "SNP data for the spring tetraploid x hexaploid NAM population"
 date:   2023-02-23 16:59:00 +0000
 >>>>>>>> 27bdd068dfd5f9dff6acc91eac2619accbc65a23:_posts/2023-02-23-SNP-data-for-the-THEX-NAM-population.markdown
+========
+title:  "SNP data for the spring tetraploid x hexaploid NAM population"
+date:   2023-02-23 16:59:00 +0000
+>>>>>>>> 27bdd068dfd5f9dff6acc91eac2619accbc65a23:_posts/2023-02-23-SNP-data-for-the-THEX-NAM-population.markdown
+=======
+title:  "SNP data for the spring tetraploid x hexaploid NAM population"
+date:   2022-12-21 16:59:00 +0000
+>>>>>>> parent of 623eb08 (Upload of clean SHW data and edits):_posts/2022-12-21-SNP-data-for-the-THEX-NAM-population.markdown
 categories: jekyll update
 ---
 
 # Summary 
 
-This page contains links to the full 35k breeders' array genotype data for the NIAB spring tetraploid x hexaploid wheat (tet hex) Nested Association Mapping (NAM) population. The data consists of 35,143 markers and 1,983 genotypes (including individuals and parents). There are 58 nested populations, each formed through backcrossing a different tetraploid donor with the recurrent parent Paragon. The genotyping array was the Breeders' 35K Axiom® array (Affymetrix product ID 550524) and the genotyping was carried out at the [University of Bristol](https://www.bristol.ac.uk/), the DNA extraction and SNP calling was completed at NIAB. All work was funded by the Biotechnology and Biological Sciences Research Council (BBSRC) Cross-Institute Strategic Programme ‘Designing Future Wheat’ BB/P016855/1.
+This page contains links to the full 35k breeders' array genotype data for the NIAB spring tetraploid x hexaploid wheat (tet hex) Nested Association Mapping (NAM) population. The data consists of 35,143 markers and 1,983 genotypes (including individuals and parents). There are 59 nested populations, each formed through backcrossing a different tetraploid donor with the recurrent parent Paragon. The genotyping array was the Breeders' 35K Axiom® array (Affymetrix product ID 550524) and the genotyping was carried out at the [University of Bristol](https://www.bristol.ac.uk/), the DNA extraction and SNP calling was completed at NIAB. All work was funded by the Biotechnology and Biological Sciences Research Council (BBSRC) Cross-Institute Strategic Programme ‘Designing Future Wheat’ BB/P016855/1.
 
 # Data Download
 
@@ -20,7 +30,9 @@ The data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/
 
 - `full.markers.spring.thex.nam.v1.csv` the dataset with NIAB codes.
 
-- `pedigree.for.spring.thex.nam.csv` a file with information on the pedigree of the 58 nested populations.
+
+- **WILL CONTAIN SOON** `GRUvs.NIAB.code.conversion.csv` a conversion file to link up the Academic and Breeders' toolkit lines with the NIAB codes. See [here](https://designingfuturewheat.org.uk/work-package-3/) for more info on these toolkits. 
+- `pedigree.for.spring.thex.nam.csv` a file with information on the pedigree of the 59 nested populations.
 
 # Information on data
  
@@ -43,7 +55,7 @@ The data includes NAM individuals, tetraploid parents and a number of Paragon re
 | Robigus replicates | 2     |
 
 
-The NAM population contains 58 nested populations, backcrossed into Paragon and each with a different tetraploid donor. Each NAM individual's name starts with a population code (e.g. `THEX002_x_x_x`). The below table shows the pedigree and information of genotypes in the data: 
+The NAM population contains 59 nested populations, backcrossed into Paragon and each with a different tetraploid donor. Each NAM individual's name starts with a population code (e.g. `THEX002_x_x_x`). The below table shows the pedigree and information of genotypes in the data: 
 
 | **Population Code** | **No. of Genotypes** | **Founder of Population** | **Recurrent Parent** |
 |---------------------|----------------------|---------------------------|----------------------|
@@ -113,3 +125,4 @@ For queries on the data and usage please contact:
 - fiona.leigh@niab.com, bethany.love@niab.com and tally.wright@niab.com 
 
 ![](/niab-dfw-wp3/image/tet-parents.png)
+
