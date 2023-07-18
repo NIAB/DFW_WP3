@@ -1,5 +1,6 @@
 ---
 layout: post
+<<<<<<< HEAD
 <<<<<<< HEAD:_posts/2022-12-21-Raw-SNP-data-for-the-THEX-NAM-population.markdown
 <<<<<<<< HEAD:_posts/2022-12-21-Raw-SNP-data-for-the-THEX-NAM-population.markdown
 <<<<<<<< HEAD:_posts/2022-12-21-Raw-SNP-data-for-the-THEX-NAM-population.markdown
@@ -17,6 +18,10 @@ date:   2023-02-23 16:59:00 +0000
 title:  "SNP data for the spring tetraploid x hexaploid NAM population"
 date:   2022-12-21 16:59:00 +0000
 >>>>>>> parent of 623eb08 (Upload of clean SHW data and edits):_posts/2022-12-21-SNP-data-for-the-THEX-NAM-population.markdown
+=======
+title:  "SNP data for the spring tetraploid x hexaploid NAM population"
+date:   2022-12-21 16:59:00 +0000
+>>>>>>> parent of 623eb08 (Upload of clean SHW data and edits)
 categories: jekyll update
 ---
 
