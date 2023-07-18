@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Raw data for the winter SHW NAM population"
+title:  "Raw data for the winter NIAB_SHW_NAM"
 date:   2022-12-12 10:43:05 +0000
 categories: jekyll update
 ---
 
 # Summary 
 
-This page contains links to the full 35k breeders' array genotype data for the NIAB winter Synthetic Hexaploid Wheat (SHW) Nested Association Mapping (NAM) population. The data consists of 35,143 markers and 3,295 genotypes (including individuals and parents). There are 55 nested populations, each formed through backcrossing a different primary SHW with the recurrent parent Robigus. The genotyping array was the Breeders' 35K Axiom® array (Affymetrix product ID 550524) and the genotyping was carried out at the [University of Bristol](https://www.bristol.ac.uk/), the DNA extraction and SNP calling was completed at NIAB. All work was funded by the Biotechnology and Biological Sciences Research Council (BBSRC) Cross-Institute Strategic Programme ‘Designing Future Wheat’ BB/P016855/1.
+This page contains links to the full 35k breeders' array genotype data for the winter NIAB_SHW_NAM population. The data consists of 35,143 markers and 3,295 genotypes (including individuals and parents). There are 55 nested populations, each formed through backcrossing a different primary SHW with the recurrent parent Robigus. The genotyping array was the Breeders' 35K Axiom® array (Affymetrix product ID 550524) and the genotyping was carried out at the [University of Bristol](https://www.bristol.ac.uk/), the DNA extraction and SNP calling was completed at NIAB. All work was funded by the Biotechnology and Biological Sciences Research Council (BBSRC) Cross-Institute Strategic Programme ‘Designing Future Wheat’ BB/P016855/1.
 
 # Data Download
 
