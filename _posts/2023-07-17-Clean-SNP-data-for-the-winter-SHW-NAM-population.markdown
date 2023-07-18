@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Clean SNP data for the winter SHW NAM population"
+title:  "Clean SNP data for the winter NIAB_SHW_NAM (Wright, Horsnell et al. (underprep))"
 date:   2023-07-17 10:43:05 +0000
 categories: jekyll update
 ---
 
 # Summary 
 
-This page hosts the genetic marker data used in Wright et al. (underprep). The data is the quality controlled version of the raw data available [here](https://niab.github.io/niab-dfw-wp3/jekyll/update/2022/12/12/SNP-data-for-the-winter-SHW-NAM-population.html).
+This page hosts the genetic marker data used in Wright, Horsnell et al. (underprep). The data is the quality controlled version of the raw data available [here](https://niab.github.io/niab-dfw-wp3/jekyll/update/2022/12/12/SNP-data-for-the-winter-SHW-NAM-population.html).
 
 # Data Download
 
