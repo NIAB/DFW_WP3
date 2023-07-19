@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Raw data for the winter NIAB_SHW_NAM"
+title:  "Full SNP data for the winter NIAB_SHW_NAM"
 date:   2022-12-12 10:43:05 +0000
 categories: jekyll update
 ---
