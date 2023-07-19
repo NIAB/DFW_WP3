@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cleaned SNP data for the winter NIAB_SHW_NAM (Wright, Horsnell et al. *underprep*)"
+title:  "Cleaned SNP data for the winter NIAB_SHW_NAM (Wright, Horsnell et al.)"
 date:   2023-07-17 10:43:05 +0000
 categories: jekyll update
 ---
@@ -27,7 +27,7 @@ The data is in numeric format and was converted from the original axiom call cod
 `"AB" = 1`
 `"BB" = 2`
 
-The full, unedited data can be downloaded from [here.](https://niab.github.io/niab-dfw-wp3/jekyll/update/2022/12/12/SNP-data-for-the-winter-SHW-NAM-population.html)
+The full, unedited data can be downloaded from [here.](https://niab.github.io/niab-dfw-wp3/jekyll/update/2022/12/12/Full-SNP-data-for-the-winter-SHW-NAM-population.html)
 
 # Contact 
 
