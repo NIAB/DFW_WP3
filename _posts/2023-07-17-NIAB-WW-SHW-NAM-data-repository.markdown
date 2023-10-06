@@ -13,7 +13,6 @@ This page hosts the genetic marker and phenotypic data from Wright, Horsnell et 
 
 The QC'd genotype data can be downloaded [here](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/NIAB_WW_SHW_NAM_clean_geno.zip). The zip folder includes the following files:
 
-The repository contains the following files:
 - `dataset.map.csv` the physical positions for 11,051 SNP markers
 - `dataset.1.NAM.mapped.csv` the genotypes across 11,051 markers for 2637 SHW NAM individuals  
 - `dataset.1.NAM.mapped.with.parents.csv`the genotypes across 11,051 markers for 2637 SHW NAM individuals + 54 primary SHW parents and Robigus
