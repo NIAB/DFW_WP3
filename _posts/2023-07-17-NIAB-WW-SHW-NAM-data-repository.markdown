@@ -16,8 +16,8 @@ The QC'd genotype data can be downloaded [here](https://github.com/NIAB/niab-dfw
 - `dataset.map.csv` the physical positions for 11,051 SNP markers
 - `dataset.1.NAM.mapped.csv` the genotypes across 11,051 markers for 2637 SHW NAM individuals  
 - `dataset.1.NAM.mapped.with.parents.csv`the genotypes across 11,051 markers for 2637 SHW NAM individuals + 54 primary SHW parents and Robigus
-- `dataset.2.NAM.mapped.skim100` is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) of 1
-- `dataset.3.NAM.mapped.skim80` is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) above 0.80
+- `dataset.2.NAM.mapped.skim100` is `dataset.1.NAM.mapped.csv` skimmed with an absolute Pearson correlation (*r*) of 1
+- `dataset.3.NAM.mapped.skim80` is `dataset.1.NAM.mapped.csv` skimmed with *r* = 0.80
 - `NIAB.WW.SHW.NAM.pedigree.info.csv` contains the pedigree information for the population
 
 The data is in numeric format and was converted from the original axiom call codes format (AA, AB, BB and NoCall) using the following conversion:
