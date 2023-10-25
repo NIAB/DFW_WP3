@@ -19,6 +19,7 @@ The QC'd genotype data can be downloaded [here](https://github.com/NIAB/niab-dfw
 - `dataset.2.NAM.mapped.skim100` is `dataset.1.NAM.mapped.csv` skimmed with an absolute Pearson correlation (*r*) of 1
 - `dataset.3.NAM.mapped.skim80` is `dataset.1.NAM.mapped.csv` skimmed with *r* = 0.80
 - `NIAB.WW.SHW.NAM.pedigree.info.csv` contains the pedigree information for the population
+- `genotype.population.numbers.csv` contains the nested population number of each genotype
 
 The data is in numeric format and was converted from the original axiom call codes format (AA, AB, BB and NoCall) using the following conversion:
 
