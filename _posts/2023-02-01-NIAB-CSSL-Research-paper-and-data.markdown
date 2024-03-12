@@ -21,6 +21,7 @@ Genetic data are available for each set of genotypes and markers used to form th
 -	The NIAB_AB (A genome) CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Agenome.csv) 
 -	The NIAB_AB (B genome) CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Bgenome.csv).
 -	The NIAB_D CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Dgenome.csv).
+
 Alternatively, genetic marker data are also available for the same genotypes but with the markers ordered on the genetic linkage 35k Consensus Map positions (available from: www.cerealsdb.uk.net). Here the marker data is called based on the original Axiom calls with some curation and quality control. This version of the data was used to make Supplementary Figures S3, S4 and S5, in the paper. The data are available in a zip folder [here.](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/NIAB_CSSLs_Selection_genotypes_ordered_35k.zip)
 
 
