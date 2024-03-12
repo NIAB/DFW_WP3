@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NIAB_CSSL Research Paper and Data"
+title:  "NIAB_CSSL Research paper and data"
 date:   2023-02-01 11:11:05 +0000
 categories: jekyll update
 ---
