@@ -19,10 +19,10 @@ The paper can be viewed following this [link.](https://doi.org/10.1002/tpg2.2028
 
 Genetic data are available for each set of genotypes and markers used to form the graphical genotypes. Here the marker data are called on: an identical homozygote allele to ‘Paragon’ (‘0’), a heterozygous call (‘1’), an alternative homozygote allele to Paragon (‘2’) or a missing data point (‘NA’). 
 -	The NIAB_AB (A genome) CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Agenome.csv) 
--	The NIAB_AB (B genome) CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Bgenome.csv).
--	The NIAB_D CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Dgenome.csv).
+-	The NIAB_AB (B genome) CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Bgenome.csv)
+-	The NIAB_D CSSLs data are available [here from cerealsdb.](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/genotyping_data/NIAB_CSSL_Dgenome.csv)
 
-Alternatively, genetic marker data are also available for the same genotypes but with the markers ordered on the genetic linkage 35k Consensus Map positions (available from: www.cerealsdb.uk.net). Here the marker data is called based on the original Axiom calls with some curation and quality control. This version of the data was used to make Supplementary Figures S3, S4 and S5, in the paper. The data are available in a zip folder [here.](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/NIAB_CSSLs_Selection_genotypes_ordered_35k.zip)
+Alternatively, genetic marker data are also available for the same genotypes but with the markers ordered on the genetic linkage 35k consensus map positions (available from: www.cerealsdb.uk.net). Here the marker data is called based on the original array calls with some curation and quality control. This version of the data was used to make Supplementary Figures S3, S4 and S5, in the paper. The data are available in a zip folder [here.](https://github.com/NIAB/niab-dfw-wp3/raw/main/data/NIAB_CSSLs_Selection_genotypes_ordered_35k.zip)
 
 
 # Citation
